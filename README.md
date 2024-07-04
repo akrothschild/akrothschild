@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<div>
+
   <img align="right" height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2a3VycDZhNm13eWNqZWRlcDFjbTZnb3hkcmM5ZzhiczBhZGNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
   
   ###
@@ -93,7 +93,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   </div>
-</div>
+  
 ###
 
 <br clear="both">
