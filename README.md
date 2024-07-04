@@ -1,9 +1,9 @@
 
 ###
 
-<div align="center" width="90%">
+<div align="center" style="width: 90%;">
   
-  <img src="https://streak-stats.demolab.com?user=akrothschild&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=akrothschild&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  width="90%" alt="streak graph" />
   <br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrothschild&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" width="90%" alt="languages graph" />
@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<div width="90%">
+<div style="width: 90%;">
   <img align="right" height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2a3VycDZhNm13eWNqZWRlcDFjbTZnb3hkcmM5ZzhiczBhZGNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
   
   ###
@@ -98,7 +98,7 @@
 
 <br clear="both">
 
-<div align="left" width="90%">
+<div align="left" style="width: 90%;">
   <a href="http://discordapp.com/users/deutschergott" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -109,13 +109,13 @@
 
 ###
 
-<br clear="both" width="90%">
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/akrothschild/akrothschild/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/akrothschild/akrothschild/output/snake.svg" width="90%" alt="Snake animation" />
 
 ###
 
-<div align="center" width="90%">
+<div align="center" style="width: 90%;">
   <img src="https://profile-counter.glitch.me/akrothschild/count.svg?"  />
 </div>
 
