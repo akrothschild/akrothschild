@@ -1,7 +1,7 @@
 
 ###
 
-<div align="center" style="width: 90%;">
+<div align="center">
   
   <img src="https://streak-stats.demolab.com?user=akrothschild&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  width="90%" alt="streak graph" />
   <br />
@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<div style="width: 90%;">
+<div>
   <img align="right" height="150" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2a3VycDZhNm13eWNqZWRlcDFjbTZnb3hkcmM5ZzhiczBhZGNlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
   
   ###
@@ -98,7 +98,7 @@
 
 <br clear="both">
 
-<div align="left" style="width: 90%;">
+<div align="left">
   <a href="http://discordapp.com/users/deutschergott" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -115,7 +115,7 @@
 
 ###
 
-<div align="center" style="width: 90%;">
+<div align="center">
   <img src="https://profile-counter.glitch.me/akrothschild/count.svg?"  />
 </div>
 
