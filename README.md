@@ -102,7 +102,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/akrothschild/akrothschild/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
 
